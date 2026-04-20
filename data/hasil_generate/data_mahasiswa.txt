@@ -1,0 +1,17 @@
+Daftar Mahasiswa Pemrograman 2 - PENS 2025
+==========================================
+Nama: Ahmad Fauzi | NRP: 3123600001 | Email: ahmad.fauzi@student.pens.ac.id | Nilai: 85
+Nama: Budi Santoso | NRP: 3123600002 | Email: budi.s@student.ppns.ac.id | Nilai: 78
+Nama: Citra Dewi | NRP: 3123600003 | Email: citra.dewi@student.its.ac.id | Nilai: 92
+Nama: Diana Putri | NRP: 3123600004 | Email: diana.p@student.pens.ac.id | Nilai: 65
+Nama: Ega Pratama | NRP: 3123600005 | Email: ega31@student.pens.ac.id | Nilai: 88
+Nama: Fajar Nugroho | NRP: 3123600006 | Email: fajar.n@gmail.com | Nilai: 71
+Nama: Gita Sari | NRP: 3123600007 | Email: gita.sari@student.pens.ac.id | Nilai: 95
+Nama: Hadi Kusuma | NRP: 3123600008 | Email: hadi_k@student.ppns.ac.id | Nilai: 58
+Nama: Indah Lestari | NRP: 3123600009 | Email: indah.lestari@student.its.ac.id | Nilai: 83
+Nama: Joko Widodo | NRP: 3123600010 | Email: joko.w@student.pens.ac.id | Nilai: 77
+Nama: Kian Budi | NRP: 3123600011 | Email: kian11@yahoo.com | Nilai: 69
+Nama: Lely Kusuma | NRP: 3123600012 | Email: 99lely@student.pens.ac.id | Nilai: 90
+Nama: Daniel Setiawan | NRP: 3123600013 | Email: daniel7@student.pens.ac.id | Nilai: 74
+Nama: Anabel Putri | NRP: 3123600014 | Email: anabel.p@student.ppns.ac.id | Nilai: 81
+Nama: Sesa Firmansyah | NRP: 3123600015 | Email: sesa4@student.its.ac.id | Nilai: 86

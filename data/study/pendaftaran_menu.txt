@@ -1,0 +1,3 @@
+andi,andi_01@pemrograman.id
+budi,budi_dev@pemrograman.id
+citra,citra123@pemrograman.id

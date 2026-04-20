@@ -1,0 +1,4 @@
+Andi, Teknik Informatika, 08224541001, 12-08-2000, 3130600018
+Budi, 23-01-2001, Sains Data Terapan, 332450001, @budi_sdt_24
+Citra, 05/05/1999, 2317500023, citra@pens.ac.id
+Dewi, 3321600018, sains data terapan, 17-11-2000, dewi@pemrograman.id

@@ -1,0 +1,16 @@
+id,nama,nrp,email,telepon,jurusan,nilai_uts,nilai_uas,nilai_tugas
+1,Ahmad Fauzi,3123600001,ahmad.fauzi@student.pens.ac.id,081234567890,Informatika,80,90,85
+2,Budi Santoso,3123600002,budi.s@student.ppns.ac.id,082345678901,Elektronika,75,80,78
+3,Citra Dewi,3123600003,citra.dewi@student.its.ac.id,083456789012,Informatika,90,95,92
+4,Diana Putri,3123600004,diana.p@student.pens.ac.id,08-invalid-number,Informatika,60,70,65
+5,Ega Pratama,3123600005,ega31@student.pens.ac.id,085678901234,Elektronika,85,90,88
+6,Fajar Nugroho,3123600006,fajar.n@gmail.com,086789012345,Informatika,70,72,71
+7,Gita Sari,3123600007,gita.sari@student.pens.ac.id,087890123456,Informatika,93,97,95
+8,Hadi Kusuma,3123600008,hadi_k@student.ppns.ac.id,tidak_ada,Elektronika,55,60,58
+9,Indah Lestari,3123600009,indah.lestari@student.its.ac.id,089012345678,Informatika,80,85,83
+10,Joko Widodo,3123600010,joko.w@student.pens.ac.id,031-5947000,Elektronika,75,78,77
+11,Kian Budi,3123600011,kian11@yahoo.com,081122334455,Informatika,65,73,69
+12,Lely Kusuma,3123600012,99lely@student.pens.ac.id,082233445566,Elektronika,88,92,90
+13,Daniel Setiawan,3123600013,daniel7@student.pens.ac.id,083344556677,Informatika,72,76,74
+14,Anabel Putri,3123600014,anabel.p@student.ppns.ac.id,084455667788,Informatika,79,83,81
+15,Sesa Firmansyah,3123600015,sesa4@student.its.ac.id,085566778899,Elektronika,84,88,86
