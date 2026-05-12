@@ -1,0 +1,5 @@
+Laptop (2) - 7000000
+Mouse (5) - 200000
+Keyboard (3) - 350000
+Monitor (1) - 2500000
+Laptop Case (20) - 250000
